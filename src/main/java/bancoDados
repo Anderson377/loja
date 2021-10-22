@@ -1,0 +1,10 @@
+
+create table produtos(
+    id  bigint,
+    nome varchar(20),
+    descricao varchar(100),
+    preco decimal
+    categoria_id int(fk
+)
+
+produtos -> categorias
